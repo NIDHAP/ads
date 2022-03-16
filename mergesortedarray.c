@@ -1,5 +1,5 @@
 merging of sorted array 
-
+//nidhapoozhikal
 #include <stdio.h>
 void main()
 {
